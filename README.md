@@ -18,6 +18,10 @@ They do **not** contain proprietary content from any of my employers and use gen
 - PR-style review approach (structure, accuracy, and usability)
 - Metadata/taxonomy concepts to improve retrieval and discoverability
 
+##  Tool
+**Visual Studio Code**
+Version: 1.107.1 (user setup)
+
 ## Contact
 Komal Kori  
 Ottawa, Canada  
