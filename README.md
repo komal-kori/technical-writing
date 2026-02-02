@@ -2,7 +2,7 @@
 This repository showcases my technical writing skills and documentation practices for hardware and semiconductor-adjacent environments.
 
 ## What you’ll find here
-- **IP Summaries**: engineer-friendly one-pagers describing hardware blocks and interfaces
+- **IP Summaries**: engineer-friendly one-pagers describing hardware blocks and interfaces (see Tensix NEO IP summary in the folder above)
 - **Design Specs**: requirements, assumptions, and acceptance criteria
 - **User Manuals**: structured guides for setup, bring-up, and operations
 - **Release Notes**: versioned changes, known issues, and upgrade notes
